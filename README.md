@@ -39,36 +39,36 @@ A modern web browser is all you need.
 
 3. Launch index.html in your browser.
 
+---
+
 ## 📂 Project Structure
 
 ```secret-friend-challenge/
 ├── index.html      # Main HTML file
 ├── style.css       # Stylesheet
 └── script.js       # Application logic
+```
+---
 
 ## 🕹️ Usage
+1. Open the application in your browser.  
+2. Enter the names of all participants.  
+3. Click **Draw** to see the random secret friend assignments.
 
-1. Open the application in your browser.
-
-2. Enter the names of all participants.
-
-3. Click Draw to see the random secret friend assignments.
+---
 
 ## 📜 License
+This project is licensed under the **MIT License** – feel free to use, modify, and distribute it.
 
-This project is licensed under the MIT License – feel free to use, modify, and distribute it.
+---
 
 ## 🙏 Acknowledgments
+- [ONE – Oracle Next Education](https://www.oracle.com/ar/education/oracle-next-education/)  
+- [Alura LATAM](https://www.aluracursos.com/) for guidance and resources.
 
-ONE – Oracle Next Education
-
-Alura LATAM
- for guidance and resources.
+---
 
 ## 🤝 Connect with Me
-
-**María Celeste Arce**
-
-💼 LinkedIn
-
-🐙 Github
+**María Celeste Arce**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/maria-celeste-arce)  
+- 🐙 [GitHub](https://github.com/mariacelestearce) 
